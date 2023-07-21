@@ -1,0 +1,7 @@
+{
+  "printWidth": 80, // Set your preferred line width
+  "tabWidth": 2, // Set the number of spaces per indentation level
+  "singleQuote": true, // Use single quotes instead of double quotes
+  "htmlWhitespaceSensitivity": "strict", // Define how to handle whitespace
+  "endOfLine": "auto" // Set line endings automatically based on the OS
+}
